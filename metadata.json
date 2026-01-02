@@ -1,0 +1,8 @@
+{
+  "name": "JOBDEV SOLUTIONS",
+  "description": "Plataforma avançada para criação de ferramentas de chat e mensageria personalizada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
